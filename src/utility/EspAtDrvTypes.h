@@ -23,7 +23,7 @@
 #include <Arduino.h>
 
 #ifndef WIFIESPAT2 // for -D
-#define WIFIESPAT1
+//#define WIFIESPAT1
 #endif
 
 const uint8_t WIFIESPAT_LINKS_COUNT = 5;
